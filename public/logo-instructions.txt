@@ -1,0 +1,6 @@
+Place your logo image here with this exact name:
+
+apex-logo.png
+
+Example final path:
+C:\Users\AZ\source\repos\BookingUI\public\apex-logo.png
